@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afaf</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on [2d-](https://github.com/AfaJab/2d-)
-
 - 👯 I’m looking for my first job in **tech**
 
 - 📫 How to reach me **afaf.jaber.93@gmail.com**
